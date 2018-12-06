@@ -1,0 +1,23 @@
+streaming experiments
+
+10-7-18
+
+4:15am    (~11.4MB)
+KEYWORD "abrams"      target-file: tweets_keyword_abrams_10_7_2018_0415.db 
+(no location data, no retweets)
+
+10-8-18
+
+   (~2.4MB)
+KEYWORD "abrams"      target-file: tweets_keyword_abrams_10_8_2018_1540.db
+(yes location data, no retweets)
+
+
+    Running SQLite DB Tweet collector
+KEYWORD "abrams"      target-file: tweets_keyword_abrams_10_9_2018_0200.db
+(yes location data, yes retweets)
+
+
+    Running SQLite DB Tweet collector
+KEYWORD "gillum"      target-file: tweets_retweets_keyword_gillum_10_9_2018_0200.db
+(yes location data, yes retweets)
